@@ -1,0 +1,15 @@
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\bin\Debug\net6.0\Zadacha_21Hard.exe
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\bin\Debug\net6.0\Zadacha_21Hard.deps.json
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\bin\Debug\net6.0\Zadacha_21Hard.runtimeconfig.json
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\bin\Debug\net6.0\Zadacha_21Hard.dll
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\bin\Debug\net6.0\Zadacha_21Hard.pdb
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.csproj.AssemblyReference.cache
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.AssemblyInfoInputs.cache
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.AssemblyInfo.cs
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.csproj.CoreCompileInputs.cache
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.dll
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\refint\Zadacha_21Hard.dll
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.pdb
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\Zadacha_21Hard.genruntimeconfig.cache
+C:\Users\kettt\OneDrive\Рабочий стол\DZ_5. KuznetsovaE\Zadacha_21Hard\obj\Debug\net6.0\ref\Zadacha_21Hard.dll
